@@ -1,0 +1,87 @@
+
+<!DOCTYPE html> 
+<html>
+    <meta charset="UTF-8">
+    <meta="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel = "stylesheet" href = "style.css">
+       <head>
+           <title> 
+               About Us
+           </title> 
+       </head>
+	  <body>
+	      <nav> 
+        <!--This log is for persona-->
+         <div class = "logo">
+          <img src = "Persona 3 logo.png" alt = "yuki-png"> 
+         </div>
+         <!--list of navigation-->
+         <ul> 
+           <li><a href ="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\Main page.html">Home</a></li>
+           <li><a href ="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\About Us.html">About Us</a></li>
+           <li><a href ="https://steamcommunity.com/app/2161700" target = "_blank">Community</a></li>
+           <li><a href ="https://store.steampowered.com/app/2161700/Persona_3_Reload/" target = "_blank">Steam</a></li>
+         </ul>
+      </nav>
+	 <div class ="bodybg">
+             <img src="loopbg.gif" alt ="loopgif">
+			      <audio autoplay loop controls> 
+                 <source src ="musicp3r.mp3" type="audio/mp3">
+               </audio>
+			    <div class = "bg6"> 
+				     
+				 </div>
+				  <div = class ="bg5"> 
+			         <div class = "bg5text"> 
+					     <p>Hello, my name is DEFAULT, <br>
+						 This website is made by 1 web developer for completion of grades inspired by Persona 3 Reload, 
+						 I hope you enjoyed the site and check out my socials and my github. <br>
+						 <p>
+					 </div>
+					 <div class="Platforms"> 
+					     PLATFORMS: <br>
+						 <a href ="https://github.com/DEF4ULT0-PROG" target = _blank><img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\Github.png"> </a> 
+						 <a href ="https://x.com/Default24812563" target = _blank><img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\X.png"></a>
+					 </div>
+			   </div>
+     </div>
+	 <div class = bg4> 
+      <div class ="foot">
+	     <img src ="C:\Users\SOFTLAB 6\Downloads\logo_color_a0ae396768813e9f6a6e710194abcc94 (2).webp"> 
+	  </div>
+	     <div class ="foottext1">  
+		     SPEC
+		 </div> 
+		 <div class = "foottext2"> 
+		     Title                  
+		 </div>
+		 <div class = "foottext3"> 
+		     Persona 3 Reload
+		 </div>
+		 <div class = "foottext4"> 
+		     Genre 
+		 </div>
+		 <div class = "foottext5"> 
+		     RPG
+		 </div>
+		 <div class ="foottext6"> 
+		     Platforms
+		 </div>
+		 <div class ="foottext7"> 
+		     Xbox Game Pass / Xbox Series X|S / Xbox One / Windows <br> / PlayStation®5 /PlayStation®4 / Steam <br>
+             *For those who own the PS4 version, the PS5 version will be available<br> for download at no extra cost.
+		 </div>
+		 <div class ="link"> 
+		     LINKS <br>
+			 <a href = "https://www.facebook.com/Atlus.asia" target = _blank>Official Facebook <br></a> 
+			 <a href = "https://www.youtube.com/channel/UCgbXqhXm7FfiABeM9UASdog" target = _blank>Official Youtube</a> 
+		 </div>
+	  <div class ="glist"> 
+	     <img src="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\game list.png">
+	  </div>
+	   <div class = "SEGA"> 
+	     <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\image_2024-11-11_103047072-removebg-preview.png">
+	  </div>
+     </div> 
+	  </body>
+</html>
