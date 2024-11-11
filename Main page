@@ -1,0 +1,209 @@
+
+<!DOCTYPE html>
+<html>
+ <meta charset="UTF-8">
+ <meta="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel = "stylesheet" href = "style.css">
+    <head>
+        <title> 
+            Persona 3 Reload Experience
+        </title> 
+    </head>
+ <body> 
+    <nav> 
+        <!--This log is for persona-->
+        <div class = "logo">
+          <img src = "Persona 3 logo.png" alt = "yuki-png"> 
+        </div>
+        <!--list of navigation-->
+         <ul> 
+           <li><a href ="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\Main page.html">Home</a></li>
+           <li><a href ="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\About Us.html">About Us</a></li>
+           <li><a href ="https://steamcommunity.com/app/2161700" target = "_blank">Community</a></li>
+           <li><a href ="https://store.steampowered.com/app/2161700/Persona_3_Reload/" target = "_blank">Steam</a></li>
+         </ul>
+      </nav>
+    <div class ="bodybg">
+             <img src="loopbg.gif" alt ="loopgif">
+			      <audio autoplay loop controls> 
+                 <source src ="musicp3r.mp3" type="audio/mp3">
+               </audio>
+                 <div class="P3R"> 
+                    <img src ="Persona 3 logo.png" alt = p3r>
+                 </div>
+				  <div class="Trailer">
+                     <img src ="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\Trailer.png">					 
+	              </div>
+                    <div class ="bodyvid">
+                      <img src="frame.png" alt  = "frame">
+                       <video autoplay loop muted controls> 
+                         <source src ="P3Rvid.mp4" alt = persona3trailer>
+                       </video>
+                    </div>
+     </div>
+     <div class = "dlcvid"> 
+       <video autoplay loop muted>
+         <source src ="P3rdlc.mp4" alt = dlc>
+       </video>
+       <div class="dlctext">
+         Buy<br> The<br> DLC<br> 
+           <div class ="buttondlc"> 
+             <a href= "https://store.steampowered.com/dlc/2161700/Persona_3_Reload/">
+               <img src ="button.png" alt = button> 
+             </a>
+           </div>
+      </div> 
+      <div class ="dlctext2">
+         <p>These additional content sets will allow you to change your appearance and BGM as you explore Tartarus,<br>
+          as well as unlock special Personas that you can fuse and use in battle.</p>
+      </div>
+     </div>
+	 <div class = "background"> 
+	     <div class = "bg2">
+		     <img src ="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\bg2.png">
+		 </div>
+		 <div class = "CharIMG"> 
+		     <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\image_2024-11-06_134741423-removebg-preview.png">
+		 </div>
+	   <div class = "char"> 
+	     Meet The S.E.E.S
+       <div class = "card">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\1st.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Protagonist (Yuki Makoto)</h2>
+			 <p>A second-year who transferred to Gekkoukan High School in the spring, returning to the island he used to live on as a child. <br>
+			 After a run-in with a frightening monster awakens him to the power of Persona, he is recruited by the Specialized Extracurricular Execution Squad (S.E.E.S.).</p>
+		 </div>
+      </div> 	 
+	    <div class = "card2">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\2nd.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Yukari Takeba</h2>
+			 <p>A second-year at Gekkoukan High School and a classmate of the Protagonist. Her cheerful personality and good looks attract many admirers, but beneath the pleasantries, she's rather headstrong and aloof. She's a member of S.E.E.S. as a Persona-user, and after she and the Protagonist have a close call with a Shadow, she reconsiders her lack of battle experience and joins him on the front lines.</p>
+       </div>
+      </div>
+	  <div class = "card3">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\3rd.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Junpei Iori</h2>
+			 <p>Another of the Protagonist's classmates, next to Yukari. He awakens to his Persona abilities shortly after the Protagonist transfers into the school, prompting him to join the rest of S.E.E.S. in the Iwatodai Dorm. Quite the class clown, he's always ready to joke around and lighten the mood... which isn't always appreciated by the eye-rolling Yukari.</p>
+		 </div>
+      </div>
+        <div class = "card4">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\4th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Akihiko Sanada</h2>
+			 <p>A third-year at Gekkoukan High School and one of the founding members of S.E.E.S. He's the captain of the boxing team and excels in academics as well, earning him a lot of fans around school. He's got an effortlessly cool and stoic personality, but can be stubborn and even a bit naive at times. An injury sustained during combat with a Shadow holds him back for a little while, but ever eager to get back into the ring, he soon recovers and returns to his place on the front lines.
+             </p>
+		 </div>
+      </div> 	 
+        <div class = "card5">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\5th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Mitsuru Kirijo</h2>
+			 <p>The heiress of a powerful international corporation, the Kirijo Group. She's a third-year at Gekkoukan High School and serves as student council president. She also leads S.E.E.S. and organizes their operations.
+              With a business-like demeanor, she likes to keep everything in order. With a business-like demeanor, she likes to keep everything in order. She is well respected as an honor student.         
+			 </p>
+		 </div>
+      </div> 
+        <div class = "card6">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\6th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Fuuka Yamagishi</h2>
+			 <p>A quiet and calm second-year at Gekkoukan High School. Less upstanding students take advantage of her timidness, turning her into a bullying target. As a result of the bullying, she gets trapped within the Dark Hour and has to be rescued by the Protagonist and his friends. This experience leads her to awaken to the power of Persona and decide to join S.E.E.S. herself.
+             </p>
+		 </div>
+      </div> 	 
+     <div class = "card7">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\7th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Koromaru</h2>
+			 <p>A dog who awakens to the power of Persona after a tragic event. Since his original owner—the priest of the dorm's neighboring Naganaki Shrine—had passed away, the protagonist and friends take him in as a full-fledged member of S.E.E.S. Clever, loyal, and friendly, he quickly becomes a beloved member of the group. He seems especially close to Aigis—who translates his barks—and Ken Amada, the elementary school student.
+              In battle, he wields a knife in his mouth. His unique Persona is Cerberus, specializing in dark skills.</p>
+		 </div>
+      </div> 	 
+     <div class = "card8">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\8th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Aigis</h2>
+			 <p>A man-made Anti-Shadow Suppression Weapon, 7th Generation. She joins S.E.E.S. as an android with a humanlike heart, granting her the power of Persona. She harbors a mysterious attachment to the Protagonist from the first day they meet. Initially coming across as cold and robotic, she begins to discover more human emotions through her experiences with the group. In battle, she fires off an arsenal of weapons built into her mechanical body. Her unique Persona is Palladion, specializing in physical and support skills.</p>
+		 </div>
+      </div> 	 
+     <div class = "card9">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\9th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Shinjiro Aragaki</h2>
+			 <p>A third-year at Gekkoukan High, though he can rarely be seen at school. He was a founding member of S.E.E.S. alongside Mitsuru and Akihiko. After distancing himself for about two years, a certain turn of events convinces him to rejoin the group. Beneath the gruff exterior is a gentle heart and a knack for cooking.
+             In battle, he bludgeons with weapons like axes. His unique Persona is Castor, specializing in hard-hitting physical attacks.
+			 </p>
+		 </div>
+      </div> 	 
+     <div class = "card10">
+         <div class = "image-box">
+                 <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\10th.png">		 
+		 </div>		 
+		 <div class = "content">
+		     <h2>Ken Amada</h2>
+			 <p>The youngest member of S.E.E.S.—a 5th grader at Gekkoukan Elementary. After losing his mother in an accident, he comes to live at the Iwatodai Dorm. After awakening to his Persona abilities, he joins S.E.E.S. of his own accord. While he strives to act mature with his mannerisms, deep down he is still a child with a passion for superhero TV shows. In battle, he holds a long spear in contrast to his short stature. His unique Persona is Nemesis, specializing in light skills.</p>
+		 </div>
+      </div> 	 	  
+     </div>
+    </div>
+  <div class = bg3> 
+     <div class ="foot">
+	     <img src ="C:\Users\SOFTLAB 6\Downloads\logo_color_a0ae396768813e9f6a6e710194abcc94 (2).webp"> 
+	 </div>
+	     <div class ="foottext1">  
+		     SPEC
+		 </div> 
+		 <div class = "foottext2"> 
+		     Title                  
+		 </div>
+		 <div class = "foottext3"> 
+		     Persona 3 Reload
+		 </div>
+		 <div class = "foottext4"> 
+		     Genre 
+		 </div>
+		 <div class = "foottext5"> 
+		     RPG
+		 </div>
+		 <div class ="foottext6"> 
+		     Platforms
+		 </div>
+		 <div class ="foottext7"> 
+		     Xbox Game Pass / Xbox Series X|S / Xbox One / Windows <br> / PlayStation®5 /PlayStation®4 / Steam <br>
+             *For those who own the PS4 version, the PS5 version will be available<br> for download at no extra cost.
+		 </div>
+		 <div class ="link"> 
+		     LINKS <br>
+			 <a href = "https://www.facebook.com/Atlus.asia" target = _blank>Official Facebook <br></a> 
+			 <a href = "https://www.youtube.com/channel/UCgbXqhXm7FfiABeM9UASdog" target = _blank>Official Youtube</a> 
+		 </div>
+	  <div class ="glist"> 
+	     <img src="C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\game list.png">
+	  </div>
+	  <div class = "SEGA1"> 
+	     <img src = "C:\Users\SOFTLAB 6\Documents\ICT 12-fortran\HTML folder g12 - Copy\image_2024-11-11_103047072-removebg-preview.png">
+	  </div>
+  </div> 
+ </body>
+</html>
